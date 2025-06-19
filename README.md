@@ -19,6 +19,6 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: K-Nearest Neighbours (Naive Bayes Algorithm)
 
-Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
+Objective: The goal of this model is to classify countries into different pollution severity categories (Low, Medium, High) based on pollution levels, energy consumption, and other environmental factors.
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
